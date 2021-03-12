@@ -1,6 +1,6 @@
 function main() {
     // Only change code below this line
-    myString = "FirstLine\n\t\SecondLine\n\ThirdLine"
+    myString = "FirstLine\n\t\SecondLine\n\ThirdLine";
      
     // Only change code above this line  
     return myString
